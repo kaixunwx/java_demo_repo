@@ -1,0 +1,2 @@
+Java还提供了StringBuilder类，功能方法和StringBuffer类完全相同,但StringBuffer类的方法是synchronized关键字修饰的，即线程安全的。StringBuilder类的方法
+是非线程安全的

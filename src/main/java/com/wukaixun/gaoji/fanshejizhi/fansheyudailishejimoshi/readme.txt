@@ -1,0 +1,1 @@
+动态代理通过指定一个InvocationHandler的实现类，通过Proxy.newProxyInstance动态生成
